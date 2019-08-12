@@ -1,4 +1,3 @@
 ignore.txt
-*.gitignore
+.gitignore
 file.txt
-here.txt
